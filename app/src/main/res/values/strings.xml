@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TesAudioEditor</string>
+    <string name="in_progress">Ongoing</string>
+    <string name="file_exists">The file already exists.</string>
+</resources>
